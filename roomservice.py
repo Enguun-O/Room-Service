@@ -1,3 +1,8 @@
+"""
+This program...
+Made by ...
+"""
+
 guests = {'1':'Jonathan', '2': 'Joseph', '3': 'Jotaro'}
 correct_info = False
 room = input ('Pleae, enter your room number: ')
